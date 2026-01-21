@@ -7,7 +7,7 @@ This project integrates transactional and customer-level data to generate action
 #### skills implemented : R, EDA, visualisation, customer segmentation, statistical test, Pearson correlation, performance analysis, control-trial methodology, translating business requirements, reporting 
 #### key insight delivered: customer value mapping, promotional ROI, Control Store Framework
 
-resources: Forage - Quantum Data Analystics
+resources: Forage job simulation- Quantum Data Analystics
 
 
 #### dataset 1 - customer 
